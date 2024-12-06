@@ -1,4 +1,4 @@
 env
 audios
-.env
+*.env
 
